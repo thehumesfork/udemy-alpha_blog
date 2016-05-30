@@ -1,5 +1,5 @@
 body{
-    background-image:url('cleo.JPG');
+    background-image:asset-url('cleo.JPG');
     background-repeat:no-repeat;
     color: #000;
 }
