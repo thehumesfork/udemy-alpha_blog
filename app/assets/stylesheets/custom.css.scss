@@ -3,9 +3,6 @@ $navbar-default-bg: #68737e;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-.dropdown li a{
-    background-color: #68737e;
-}
 
 #logo {
     float:left;
@@ -20,6 +17,8 @@ $navbar-default-bg: #68737e;
     color: #FFF;
     text-decoration:none;
 }
+
+
 
 .center {
     text-align: center;
@@ -70,6 +69,14 @@ $navbar-default-bg: #68737e;
     
 }
 
+#drop-text{
+    color: red;
+    background-color: #68737e;
+}
+
+#drop-text a:hover {
+    background-color: #68737e;
+}
 
 footer {
     margin-top: 45px;
